@@ -1,2 +1,5 @@
 hey this is txt file 
 one line added to this text files
+hey iam using the git learn from the college workshop and tyo dai le 
+purai confused pardiyo kei garda ni vayena last ma maile cmd 
+git remote remove origin garepaxi matra vayo 
